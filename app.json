@@ -36,6 +36,15 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "f3d38aba-110b-4a18-a6e2-9fdf71914c43"
+      }
+    },
+    "owner": "savithri"
   }
 }
